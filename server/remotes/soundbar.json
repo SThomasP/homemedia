@@ -1,0 +1,46 @@
+{
+  "format": {
+    "preamble": [
+      16,
+      8
+    ],
+    "coding": "ppm",
+    "zero": [
+      1,
+      1
+    ],
+    "one": [
+      1,
+      3
+    ],
+    "postamble": [
+      1
+    ],
+    "pre_data": "20 DF",
+    "byte_by_byte_complement": true,
+    "timebase": 570,
+    "gap": 39000,
+    "carrier": 38000
+  },
+  "keys": {
+    "standby": "09",
+    "input": "0D",
+    "reset": "11",
+    "bt pair": "01",
+    "music eq": "1D",
+    "cinema eq": "19",
+    "concert eq": "15",
+    "gaming eq": "12",
+    "stop": "1F",
+    "playpause": "1B",
+    "next": "17",
+    "previous": "0F",
+    "treble down": "03",
+    "treble up": "00",
+    "bass down": "1A",
+    "bass up": "0E",
+    "volume down": "07",
+    "mute": "1E",
+    "volume up": "06"
+  }
+}
